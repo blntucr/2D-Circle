@@ -1,3 +1,3 @@
 # 2D-Circle
 
-The program creates a 2D-Circle class with specs of checking if a given coordinate point is inside or on the circle. 
+The program creates a 2D-Circle class with the feature of checking if the created circles contain or on each other. 
